@@ -68,6 +68,12 @@ footer {
   text-align: center;
 }
 
+#imagestack img {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 50px;
+}
+
 /* Media Queries */
 @media screen and (max-width: 600px) {
   nav ul li {
