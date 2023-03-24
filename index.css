@@ -5,9 +5,10 @@ body {
 }
 
 header {
-  background-color: #333;
-  color: #fff;
-  padding: 10px;
+  background: linear-gradient(to top right, rgb(61, 67, 255), rgba(82, 244, 250, 0.505));
+  color: rgb(183, 237, 255);
+  padding: 20px;
+  border-radius:  10px;
 }
 
 nav ul {
@@ -61,7 +62,7 @@ li a:hover {
 }
 
 footer {
-  background-color: #333;
+  background: linear-gradient(to top right, rgb(61, 68, 255), rgb(82, 244, 250));
   color: #fff;
   padding: 10px;
   text-align: center;
